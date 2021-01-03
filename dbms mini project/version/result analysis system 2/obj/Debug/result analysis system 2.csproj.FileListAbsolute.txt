@@ -1,0 +1,9 @@
+C:\Users\PRAJIT SINGH\source\repos\result analysis system 2\result analysis system 2\obj\Debug\result analysis system 2.csprojAssemblyReference.cache
+C:\Users\PRAJIT SINGH\source\repos\result analysis system 2\result analysis system 2\obj\Debug\result_analysis_system_2.Form1.resources
+C:\Users\PRAJIT SINGH\source\repos\result analysis system 2\result analysis system 2\obj\Debug\result_analysis_system_2.Properties.Resources.resources
+C:\Users\PRAJIT SINGH\source\repos\result analysis system 2\result analysis system 2\obj\Debug\result analysis system 2.csproj.GenerateResource.cache
+C:\Users\PRAJIT SINGH\source\repos\result analysis system 2\result analysis system 2\bin\Debug\result analysis system 2.exe.config
+C:\Users\PRAJIT SINGH\source\repos\result analysis system 2\result analysis system 2\bin\Debug\result analysis system 2.exe
+C:\Users\PRAJIT SINGH\source\repos\result analysis system 2\result analysis system 2\bin\Debug\result analysis system 2.pdb
+C:\Users\PRAJIT SINGH\source\repos\result analysis system 2\result analysis system 2\obj\Debug\result analysis system 2.exe
+C:\Users\PRAJIT SINGH\source\repos\result analysis system 2\result analysis system 2\obj\Debug\result analysis system 2.pdb
